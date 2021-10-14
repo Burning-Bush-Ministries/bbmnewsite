@@ -302,7 +302,7 @@ header.main-header {
 }
 .header-contacts {
 	float:left;
-	padding-top:36px;
+	/*padding-top:36px;*/
 	margin-right:40px;
 }
 .header-contacts ul li {
