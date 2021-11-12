@@ -1589,7 +1589,7 @@ Responsive
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.main-menu li a {
-		margin-right: 40px;
+		margin-right: 20px;
 	}
 	.hero-nav-slider .hns-item {
 		padding: 26px 10px 26px 15px;
