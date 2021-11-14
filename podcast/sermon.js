@@ -53,7 +53,7 @@ Amplitude.init({
       "cover_art_url": "http://docs.google.com/uc?export=open&id=1Xn5jYCGc_KRnPip6lb2XWYiMisC8_G5R"
     },
      {
-      "name": "CK Camp 2019 - Session 2",
+      "name": "CK Camp 2019",
       "artist": "Bishop L. Sidlayiya",
       "album": "Burning Bush Ministries",
       "url": "http://docs.google.com/uc?export=open&id=1h8yTbPOMRR4jtkawdq-ffExS5Rth6K9q",
@@ -72,6 +72,13 @@ Amplitude.init({
       "album": "Burning Bush Ministries",
       "url": "http://docs.google.com/uc?export=open&id=1wxt0Toc12qJWg0Y1GDKABDq04pNJRw3g",
       "cover_art_url": "http://docs.google.com/uc?export=open&id=1Mw0k7ZBaY4aLE01_4PKSdmimZ2ufgYFF"
+    },
+     {
+      "name": "Prayer Camp - Repentance",
+      "artist": "Apostle T. Mcoteli",
+      "album": "Burning Bush Ministries",
+      "url": "http://docs.google.com/uc?export=open&id=1KOLEzbbwLUzESHKnH0ql-ISB7BbmysfM",
+      "cover_art_url": "http://docs.google.com/uc?export=open&id=1KPnqcP018pcRHe_Md0s2OAyjI1Xl1rtu"
     },
   ]
 });
