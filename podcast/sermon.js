@@ -6,80 +6,73 @@ var songsToAdd = [
     "url": "https://521dimensions.com/songs/Terrain-pglost.mp3",
     "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/key.jpg"
   },
-  {
-    "name": "Vorel",
-    "artist": "Russian Circles",
-    "album": "Guidance",
-    "url": "https://521dimensions.com/songs/Vorel-RussianCircles.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/guidance.jpg"
-  },
-  {
-    "name": "Intro / Sweet Glory",
-    "artist": "Jimkata",
-    "album": "Die Digital",
-    "url": "https://521dimensions.com/songs/IntroSweetGlory-Jimkata.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/die-digital.jpg"
-  },
-  {
-    "name": "Offcut #6",
-    "artist": "Little People",
-    "album": "We Are But Hunks of Wood Remixes",
-    "url": "https://521dimensions.com/songs/Offcut6-LittlePeople.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-but-hunks-of-wood.jpg"
-  },
-  {
-    "name": "Dusk To Dawn",
-    "artist": "Emancipator",
-    "album": "Dusk To Dawn",
-    "url": "https://521dimensions.com/songs/DuskToDawn-Emancipator.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/from-dusk-to-dawn.jpg"
-  },
-  {
-    "name": "Anthem",
-    "artist": "Emancipator",
-    "album": "Soon It Will Be Cold Enough",
-    "url": "https://521dimensions.com/songs/Anthem-Emancipator.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
-  }
+  // {
+  //   "name": "Vorel",
+  //   "artist": "Russian Circles",
+  //   "album": "Guidance",
+  //   "url": "https://521dimensions.com/songs/Vorel-RussianCircles.mp3",
+  //   "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/guidance.jpg"
+  // },
+  // {
+  //   "name": "Intro / Sweet Glory",
+  //   "artist": "Jimkata",
+  //   "album": "Die Digital",
+  //   "url": "https://521dimensions.com/songs/IntroSweetGlory-Jimkata.mp3",
+  //   "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/die-digital.jpg"
+  // },
+  // {
+  //   "name": "Offcut #6",
+  //   "artist": "Little People",
+  //   "album": "We Are But Hunks of Wood Remixes",
+  //   "url": "https://521dimensions.com/songs/Offcut6-LittlePeople.mp3",
+  //   "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-but-hunks-of-wood.jpg"
+  // },
+  // {
+  //   "name": "Dusk To Dawn",
+  //   "artist": "Emancipator",
+  //   "album": "Dusk To Dawn",
+  //   "url": "https://521dimensions.com/songs/DuskToDawn-Emancipator.mp3",
+  //   "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/from-dusk-to-dawn.jpg"
+  // },
+  // {
+  //   "name": "Anthem",
+  //   "artist": "Emancipator",
+  //   "album": "Soon It Will Be Cold Enough",
+  //   "url": "https://521dimensions.com/songs/Anthem-Emancipator.mp3",
+  //   "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
+  // }
 ];
 
 Amplitude.init({
   "songs": [
     {
-      "name": "Risin' High (feat Raashan Ahmad)",
-      "artist": "Ancient Astronauts",
-      "album": "We Are to Answer",
-      "url": "https://521dimensions.com/songs/Ancient Astronauts - Risin' High (feat Raashan Ahmad).mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg"
+      "name": "Harvest 2019 - Session 1",
+      "artist": "Apostle N.N Mcoteli",
+      "album": "Burning Bush Ministries",
+      "url": "http://docs.google.com/uc?export=open&id=1vpEUangUaDwGJE0xnMizDJQn8tU2nR08",
+      "cover_art_url": "http://docs.google.com/uc?export=open&id=1Xn5jYCGc_KRnPip6lb2XWYiMisC8_G5R"
     },
-    {
-      "name": "The Gun",
-      "artist": "Lorn",
-      "album": "Ask The Dust",
-      "url": "https://521dimensions.com/songs/08 The Gun.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/ask-the-dust.jpg"
+     {
+      "name": "CK Camp 2019 - Session 2",
+      "artist": "Bishop L. Sidlayiya",
+      "album": "Burning Bush Ministries",
+      "url": "http://docs.google.com/uc?export=open&id=1h8yTbPOMRR4jtkawdq-ffExS5Rth6K9q",
+      "cover_art_url": "http://docs.google.com/uc?export=open&id=1Y9lIoYA-hYluUjUJMP9lSwkwaH5mONOv"
     },
-    {
-      "name": "Anvil",
-      "artist": "Lorn",
-      "album": "Anvil",
-      "url": "https://521dimensions.com/songs/LORN - ANVIL.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/anvil.jpg"
+     {
+      "name": "Harvest 2019 - Session 2",
+      "artist": "Bishop T. Sambudla",
+      "album": "Burning Bush Ministries",
+      "url": "http://docs.google.com/uc?export=open&id=1_ju858C6qLm-G_xXXgdGz7eSOF36ppPk",
+      "cover_art_url": "http://docs.google.com/uc?export=open&id=1eNKHi3uRH7FlUllRntSect09VJzSdNVq"
     },
-    {
-      "name": "I Came Running",
-      "artist": "Ancient Astronauts",
-      "album": "We Are to Answer",
-      "url": "https://521dimensions.com/songs/ICameRunning-AncientAstronauts.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg"
+     {
+      "name": "Harvest 2019 - Session 3",
+      "artist": "Bishop TD. Hermanus",
+      "album": "Burning Bush Ministries",
+      "url": "http://docs.google.com/uc?export=open&id=1wxt0Toc12qJWg0Y1GDKABDq04pNJRw3g",
+      "cover_art_url": "http://docs.google.com/uc?export=open&id=1Mw0k7ZBaY4aLE01_4PKSdmimZ2ufgYFF"
     },
-    {
-      "name": "First Snow",
-      "artist": "Emancipator",
-      "album": "Soon It Will Be Cold Enough",
-      "url": "https://521dimensions.com/songs/FirstSnow-Emancipator.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
-    }
   ]
 });
 
