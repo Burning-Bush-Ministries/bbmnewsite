@@ -22,6 +22,6 @@ blockquote, q { quotes: none;}
 :focus { outline: 0;}
 table { border-collapse: collapse; border-spacing: 0;}
 img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
-a{text-decoration:none; position:relative; color:#ffff;}
+a{text-decoration:none; position:relative; color:#0d0a0a;}
 audio,video,canvas {max-width: 100%;}
  
