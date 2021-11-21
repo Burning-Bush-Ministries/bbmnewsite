@@ -50,14 +50,14 @@ div#white-player-center div.song-meta-data span.song-name {
   text-align: center;
   font-size: 20px; }
 div#white-player-center div.song-meta-data span.song-artist {
-  color: #AAAFB3;
+  color: #000;
   display: block;
   text-align: center;
   font-size: 14px; }
 div#white-player-center div.time-progress {
   margin-bottom: 30px; }
   div#white-player-center div.time-progress span.current-time {
-    color: #AAAFB3;
+    color: #000;
     font-size: 12px;
     display: block;
     float: left;
@@ -257,7 +257,7 @@ div#white-player-center div.time-progress {
     div#white-player-center div.time-progress div#progress-container input[type=range]:focus::-ms-fill-upper {
       background: #FA6733; }
   div#white-player-center div.time-progress span.duration {
-    color: #AAAFB3;
+    color: #000;
     font-size: 12px;
     display: block;
     float: right;
@@ -382,7 +382,7 @@ div.white-player-playlist-song {
       overflow: hidden;
       text-overflow: ellipsis; }
     div.white-player-playlist-song div.playlist-song-meta span.playlist-artist-album {
-      color: #AAAFB3;
+      color: #000;
       font-size: 12px;
       display: block;
       width: 100%;
