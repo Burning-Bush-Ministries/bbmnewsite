@@ -15,14 +15,14 @@ $wizard: #4facff;
 }
 
 body {
-  background: linear-gradient(
+ /* background: linear-gradient(
       to bottom,
       rgba(140, 122, 122, 1) 0%,
       rgba(175, 135, 124, 1) 65%,
       rgba(175, 135, 124, 1) 100%
     )
-    fixed;
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/coc-background.jpg")
+    fixed;*/
+  /*background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/coc-background.jpg")*/
     no-repeat center center fixed;
   background-size: cover;
   font: 14px/20px "Lato", Arial, sans-serif;
@@ -32,7 +32,7 @@ body {
 
 .slide-container {
   margin: auto;
-  width: 80%;
+  width: initial;
   text-align: center;
 }
 
@@ -144,7 +144,7 @@ body {
 
 .clash-card__unit-name {
   font-size: 26px;
-  color: black;
+  color: #1f2b7b;
   font-weight: 900;
   margin-bottom: 5px;
 }
@@ -195,7 +195,7 @@ body {
 }
 
 .clash-card__unit-stats {
-  color: white;
+  color: black;
   font-weight: 700;
   border-bottom-left-radius: $border-radius-size;
   border-bottom-right-radius: $border-radius-size;
