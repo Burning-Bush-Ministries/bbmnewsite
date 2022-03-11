@@ -334,15 +334,15 @@
 
 !(function () {
   var data = [
-    { eventName: "Couple's Serminar", calendar: "Olea Bond", color: "orange",
-      date: "14/11/2021"
-    },
-    {
-      eventName: "Harves 2021",
-      calendar: "Conference",
-      color: "blue",
-      date: "15/11/2021"
-    },
+    // { eventName: "Couple's Serminar", calendar: "Olea Bond", color: "orange",
+    //   date: "14/11/2021"
+    // },
+    // {
+    //   eventName: "Harves 2021",
+    //   calendar: "Conference",
+    //   color: "blue",
+    //   date: "15/11/2021"
+    // },
     // {
     //   eventName: "Demo New App to the Board",
     //   calendar: "Work",
