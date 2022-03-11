@@ -158,8 +158,7 @@
               }
 
 
-              .header {
-           background-color: #327a81;
+       .header {
            color: white;
            font-size: 1.5em;
            padding: 1rem;
@@ -175,7 +174,7 @@
            border: 1px solid #327a81;
            border-radius: 10px;
            box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
-           max-width: calc(100% - 2em);
+           max-width: calc(100%);
            margin: 1em auto;
            overflow: hidden;
            text-align: center;
@@ -340,6 +339,27 @@
           button:hover, a:hover {
             opacity: 0.7;
           }
+
+          .header {
+            padding: 5px 50px;
+          }
+
+          .header a {
+            float: left;
+            color: black;
+            text-align: center;
+          }
+
+          .header a.logo {
+            font-size: 25px;
+          }
+
+
+          .header-right {
+            float: right;
+          }
+          
+
     </style>
 
 
@@ -363,14 +383,12 @@
             <div class="main-header">
                 <div class="header-bottom  header-sticky">
                     <div class="container-fluid">
-                        <div class="row align-items-center">
+                        <div class="row align-items-center header">
                             <!-- Logo -->
-                            <div class="col-xl-2 col-lg-1 col-md-1">
+                     
                                 <div class="logo">
                                     <a href="index.html"><img src="img/logo.png" alt=""></a></a><br/><a href="https://sacoronavirus.co.za/"><img src="img/covid-w.png" alt=""></a>
                                 </div>
-                            </div>
-                            <div class="col-xl-8 col-lg-8 col-md-8">
                                 <!-- Main-menu -->
                               <div class="main-menu f-right d-none d-lg-block">
                                     <nav>
@@ -441,8 +459,8 @@
 
 
   <!-- Hero Area Start -->
-    <div class="hero-area hero-height2 d-flex align-items-center" data-background="assets/img/hero/h2_hero.jpg">
-        <div class="container">
+  <div class="hero-area hero-height2 d-flex align-items-center" data-background="assets/img/hero/bg_all.jpg">
+   <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="page-top-text text-white">
@@ -462,11 +480,11 @@
     </div>
     <div class="hero-social-warp">
             <div class="hero-social">
-                <a href="https://www.facebook.com/BurningBushMinistriesInternational.co.za"><i class="fa fa-facebook"></i></a>
+                <a href="https://www.facebook.com/BurningBushMinistriesInternational.co.za" target="_blank"><i class="fa fa-facebook"></i></a>
                 <!-- <a href=""><i class="fa fa-linkedin"></i></a> -->
                 <!-- <a href=""><i class="fa fa-twitter"></i></a> -->
-                <a href="https://www.youtube.com/channel/UCDiNPbPtbMj9kpXoAPcvV1A"><i class="fa fa-youtube-play"></i></a>
-                <a href="https://www.instagram.com/officialburningbush_sa/"><i class="fa fa-instagram"></i></a>
+                <a href="https://www.youtube.com/channel/UCDiNPbPtbMj9kpXoAPcvV1A" target="_blank"><i class="fa fa-youtube-play"></i></a>
+                <a href="https://www.instagram.com/burningbush_sa/" target="_blank"><i class="fa fa-instagram"></i></a>
         </div>
         </div>
     </div>
@@ -482,13 +500,13 @@
       <h3 style="text-align:center"></h3>
 
   <div class="card">
-    <img src="img/bishop/profile.png" alt="John" style="width:40% justify-content-center">
+    <img src="img/bishop/sarab.jpg" alt="Bishop T. Sambudla" style="width:40% justify-content-center">
         <div style="margin-bottom: 20px" ></div>
     <h4>Bishop T. Sambudla</h4>
     <p class="title">Bishop</p>
     <p>Burning Bush Ministries</p>
     
-    <p><button>Contact</button></p>
+    <!-- <p><button>Contact</button></p> -->
   </div>
 
 
@@ -501,7 +519,7 @@
          <th>Pastor</th>
          <th>Region</th>
          <th>Place</th>
-         <th width="230">Location/Address</th>
+         <!-- <th width="230">Location/Address</th> -->
       </tr>
 
 		<tr>
@@ -509,14 +527,14 @@
          <td>Pastor T. Kwesaba<br/> Cell:072 281 5276</td>
          <td>Sarah Baartman</td>
          <td>New Brighton</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 	  <tr>
          <td><img class="img-logo" src="img/pastor/profile.png" alt="" /></td>
          <td>Pastor S. & Mrs B. Kapela<br/> Cell:073 764 2708</td>
          <td>Sarah Baartman</td>
          <td>Port Alfred</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 	  
 	  <tr>
@@ -524,7 +542,7 @@
          <td>Elder S. Yolwa<br/> Cell:073 271 4558</td>
          <td>Sarah Baartman</td>
          <td>Uitenhage</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 	  
 	  <tr>
@@ -532,7 +550,7 @@
          <td>Elder P. Macozoma<br/> Cell:079 818 7734</td>
          <td>Sarah Baartman</td>
          <td>Walmer</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 
 		<tr>
@@ -540,7 +558,7 @@
          <td>Elder S. Pango<br/> Cell:078 781 9654</td>
          <td>Sarah Baartman</td>
          <td>Hankey</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 	  
 		<tr>
@@ -548,7 +566,7 @@
          <td>Elder M. Mkhahlela<br/> Cell:073 377 5338</td>
          <td>Sarah Baartman</td>
          <td>Graaf-Reinet</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 	  
       <tr>
@@ -556,7 +574,7 @@
          <td> Elder T. Mohlala<br/> Cell:072 270 3884</td>
          <td>Sarah Baartman</td>
          <td>Grahamstown</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 
       <tr>
@@ -564,7 +582,7 @@
          <td>Elder A. Holiday<br/> Cell:083 361 8922</td>
          <td>Sarah Baartman</td>
          <td>Veeplas</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
       
        <tr>
@@ -572,14 +590,14 @@
          <td>Elder P. Ntsinde<br/> Cell:073 993 3122</td>
          <td>Sarah Baartman</td>
          <td>Kirkwood</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
        <tr>
          <td><img class="img-logo" src="img/pastor/profile.png"  alt="" /></td>
          <td>Elder A. Morgan<br/> Cell:079 453 3105</td>
          <td>Sarah Baartman</td>
          <td>Jeffrey's Bay</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
            
 		   <tr>
@@ -587,7 +605,7 @@
          <td>Elder S. Gxakaza<br/> Cell:078 757 2359</td>
          <td>Sarah Baartman</td>
          <td>Campus Church - NMU</td>
-         <td>Location. </td>
+         <!-- <td>Location. </td> -->
       </tr>
 	  
    </table>
